@@ -21,5 +21,35 @@ Organization : The Eclipse Foundation
 
 Mentor       : Lukas Krawczyk
 
+# Contributions
+
+* Added BTF Trace Framework to existing RTFParallella framework.
+* Feature extension of CdGen tool to support code generation of tracing framework.
+
+## Source Code
+
+The changes specific to this project has been made on github link as well as Eclipse APP4MC project.
+
+### GitHub
+In case of github, the source code changes has been done on the branch forked from the master.
+
+Below are the details:
+* RTFParallella - [BTF Trace Framework repository](https://github.com/anand6105/RTFParallella.git) forked from [RTFParallella repository](https://github.com/mahmood1994ha/RTFParallella.git).
+
+* CdGen Application - [CDGen feature extension repository](https://github.com/anand6105/cdgen.git) forked from [CDGen repository](https://github.com/rprasathg/cdgen.git).
 
 
+### Eclipse Repository
+
+The Eclipse repository link which consists of the project specific code changes are as below:
+* RTFParallella - [Eclipse APP4MC Example](https://git.eclipse.org/c/app4mc/org.eclipse.app4mc.examples.git/tree/RTFParallella).
+* CdGen Tool - [Eclipse APP4MC Tools](https://git.eclipse.org/c/app4mc/org.eclipse.app4mc.tools.git/tree/eclipse-tools/cdgen)
+
+
+### Gerrit 
+The links to the project specific code changes can be found in the below Gerrit code review links:
+
+
+## Documentation
+
+The documentation of the complete project can be found at [BTF Trace Framework documentation](https://btfdoc.readthedocs.io/en/latest/).
