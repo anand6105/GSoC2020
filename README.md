@@ -13,7 +13,7 @@ This [link](https://summerofcode.withgoogle.com/dashboard/project/66118807951769
 
 ## Project Details
 
-Developer    : Anand Prakash
+Contributor    : Anand Prakash ([@anand2901](https://twitter.com/anand2901), Gmail - anandprakaas@gmail.com, [LinkedIn](https://www.linkedin.com/in/anand-prakash-93470721/))
 
 Project Name : BTF (Best Trace Format) generation on RTFParallella (Real Time Framework Parallella)
 
