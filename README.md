@@ -48,6 +48,8 @@ The Eclipse repository link which consists of the project specific code changes 
 
 ### Gerrit 
 The links to the project specific code changes can be found in the below Gerrit code review links:
+* RTFParallella - [Gerrit Link RTFParallella](https://git.eclipse.org/r/c/app4mc/org.eclipse.app4mc.examples/+/168068)
+* CdGen Tools - [Gerrit Link CdGen](https://git.eclipse.org/r/c/app4mc/org.eclipse.app4mc.tools/+/168074)
 
 
 ## Documentation
